@@ -1,0 +1,93 @@
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.deps.json
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.dll
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.pdb
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.dll
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.dll
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.dll
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.pdb
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.pdb
+D:\engin\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.pdb
+D:\engin\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csprojAssemblyReference.cache
+D:\engin\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfoInputs.cache
+D:\engin\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfo.cs
+D:\engin\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CoreCompileInputs.cache
+D:\engin\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CopyComplete
+D:\engin\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.dll
+D:\engin\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.pdb
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.deps.json
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.dll
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.pdb
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.dll
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.dll
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.dll
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.pdb
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.pdb
+D:\20201128\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.pdb
+D:\20201128\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csprojAssemblyReference.cache
+D:\20201128\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfoInputs.cache
+D:\20201128\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfo.cs
+D:\20201128\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CoreCompileInputs.cache
+D:\20201128\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CopyComplete
+D:\20201128\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.dll
+D:\20201128\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.pdb
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.deps.json
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.dll
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.pdb
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.dll
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.dll
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.pdb
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.pdb
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfo.cs
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CopyComplete
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.dll
+C:\Users\USER\Desktop\20201129\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.deps.json
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.dll
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.dll
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.dll
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfo.cs
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CopyComplete
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.dll
+C:\Users\USER\Desktop\YAZILIM126\20201205\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.deps.json
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.dll
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.dll
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.dll
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfo.cs
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CopyComplete
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.dll
+C:\Users\USER\Desktop\YAZILIM126\20201206\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.deps.json
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Business.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.DataAccess.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TheWayShop.Model.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csprojAssemblyReference.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfoInputs.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.AssemblyInfo.cs
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CoreCompileInputs.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.csproj.CopyComplete
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TheWayShop.Business.pdb

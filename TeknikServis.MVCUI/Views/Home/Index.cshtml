@@ -1,0 +1,100 @@
+﻿
+@{
+    ViewData["Title"] = "Ana Sayfa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using TeknikServis.Model.ViewModels.HomePage
+@model ServiceQueryVm
+<ul class="cd-hero-slider">
+    <li class="selected">
+        <div class="cd-full-width">
+            <div class="container js-tm-page-content tm-page-1 tm-section-margin-t-small" data-page-no="1">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="tm-home-container-outer">
+                            <div class="tm-home-container">
+                                <div class="tm-home-title-container">
+                                    <h2 class="tm-text-title text-xs-center tm-home-title">Cihazınızın Durumunu Öğrenin</h2>
+                                </div>
+                                <div class="tm-home-description-container tm-bg-dark-blue" style="height:200px;">
+                                    <div class="form-group col-md-12">
+                                        <label for="inputAddress" style="color:white;">Cihazın Durumunu Sorgula</label>
+                                        <br />
+                                        <input type="text" class="form-control" id="txtFollow" name="txtFollow" placeholder="Takip Kodu">
+                                        <br />
+                                        <button class="btn btn-primary" id="btnQuery" name="btnQuery" style="height:40px;width:100px;font-size:15px;">Sorgula</button>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="tm-home-container-bg"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- .cd-full-width -->
+    </li>
+</ul>
+
+<div class="modal fade" id="divServiceDetailsForm" data-backdrop="static" data-keyboard="false" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Yönetici Düzenleme Formu</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <fieldset disabled>
+
+                        <div class="mb-3">
+                            <label for="disabledTextInput" class="form-label">Adı Soyadı</label>
+                            <input type="text" id="txtFullName" name="txtFullName" class="form-control" placeholder="Disabled input">
+                        </div>
+                        <div class="mb-3">
+                            <label for="disabledTextInput" class="form-label">Marka</label>
+                            <input type="text" id="txtBrand" name="txtBrand" class="form-control" placeholder="Disabled input">
+                        </div>
+                        <div class="mb-3">
+                            <label for="disabledTextInput" class="form-label">Model</label>
+                            <input type="text" id="txtModel" name="txtModel" class="form-control" placeholder="Disabled input">
+                        </div>
+                        <div class="mb-3">
+                            <label for="disabledSelect" class="form-label">Arıza</label>
+                            <select id="txtFault" name="txtFault" class="form-select" asp-items="Model.Faults">
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="disabledSelect" class="form-label">Durumu</label>
+                            <select id="txtDeviceStatus" name="txtDeviceStatus" class="form-select" asp-items="Model.DeviceStatuses">
+                            </select>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Kapat</button>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/lib/sweetalert2/dist/sweetalert2.js"></script>
+    <script src="~/lib/jquery-validation/jquery.validate.js"></script>
+}
+
+@section styles{
+    <link rel="stylesheet" href="~/lib/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/lib/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <link href="~/lib/sweetalert2/dist/sweetalert2.css" rel="stylesheet" />
+
+    <style>
+        .error {
+            color: red;
+        }
+    </style>
+}

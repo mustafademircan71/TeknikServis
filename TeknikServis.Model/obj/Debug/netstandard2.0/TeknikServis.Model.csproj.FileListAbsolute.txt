@@ -1,0 +1,36 @@
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\bin\Debug\netstandard2.0\TeknikServis.Model.deps.json
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\bin\Debug\netstandard2.0\TeknikServis.Model.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\bin\Debug\netstandard2.0\Core.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\bin\Debug\netstandard2.0\Core.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csprojAssemblyReference.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\obj\Debug\netstandard2.0\TeknikServis.Model.AssemblyInfoInputs.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\obj\Debug\netstandard2.0\TeknikServis.Model.AssemblyInfo.cs
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csproj.CopyComplete
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\bin\Debug\netstandard2.0\TeknikServis.Model.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csproj.CoreCompileInputs.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\obj\Debug\netstandard2.0\TeknikServis.Model.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Model\obj\Debug\netstandard2.0\TeknikServis.Model.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\TeknikServis.Model.deps.json
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\TeknikServis.Model.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\TeknikServis.Model.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csproj.CopyComplete
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\TeknikServis.Model.deps.json
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\TeknikServis.Model.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\TeknikServis.Model.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.csproj.CopyComplete
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Model\obj\Debug\netstandard2.0\TeknikServis.Model.pdb

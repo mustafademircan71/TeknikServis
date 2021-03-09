@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lib\sweetalert2\sweetalert2.all.js" />
+    <None Include="wwwroot\lib\sweetalert2\sweetalert2.all.min.js" />
+    <None Include="wwwroot\lib\sweetalert2\sweetalert2.js" />
+    <None Include="wwwroot\lib\sweetalert2\sweetalert2.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.9" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TeknikServis.Business\TeknikServis.Business.csproj" />
+    <ProjectReference Include="..\TeknikServis.Model\TeknikServis.Model.csproj" />
+  </ItemGroup>
+
+</Project>

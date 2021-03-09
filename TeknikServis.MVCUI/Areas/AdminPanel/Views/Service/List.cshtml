@@ -1,0 +1,212 @@
+﻿
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_Layout.cshtml";
+}
+@model ServiceListVm
+<div class="col-md-12">
+    <div class="card card-primary card-outline">
+        <div class="card-header">
+            <h3 class="card-title">
+                <i class="fas fa-edit"></i>
+                Teknik Servis Listesi
+            </h3>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-12">
+                    <button class="btn btn-primary" data-toggle="modal" data-target="#divNewServiceForm">Yeni Servis Kaydı Ekle</button>
+                    <br /><br />
+                    <table id="tblServiceList" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>Servis Kodu</th>
+                                <th>Ad Soyad</th>
+                                <th>Marka</th>
+                                <th>Model</th>
+                                <th>Arıza</th>
+                                <th>Cihazın Durumu</th>
+                                <th>Müşteri</th>
+                                <th>Fiyat</th>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var service in Model.Services)
+                            {
+                                if (service.IsActive != false)
+                                {
+                                    <tr>
+                                        <td>@service.ServiceCode</td>
+                                        <td>@service.FullName</td>
+                                        <td>@service.Brand</td>
+                                        <td>@service.Model</td>
+                                        <td>@service.Fault.FaultName</td>
+                                        <td>@service.DeviceStatus.CihazDurumu</td>
+                                        <td>@service.CustomerType.CustomerTypeName</td>
+                                        <td>@service.UnitPrice</td>
+                                        <td>
+                                            <button type="button" class="btn btn-warning btnEdit" serviceid="@service.Id">Düzenle</button>
+                                        </td>
+                                        <td>
+                                            <button type="button" class="btn btn-danger btnDelete" serviceid="@service.Id">Sil</button>
+                                        </td>
+                                    </tr>
+                                }
+
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="divUpdateServiceForm" data-backdrop="static" data-keyboard="false" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Teknik Servis Kayıt Güncelleme Formu</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="frmNewService">
+                        <input id="hfServiceIdUpdate" type="hidden" />
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="inputEmail4">Ad Soyad</label>
+                                <input type="text" class="form-control" id="txtFullNameUpdate" name="txtFullNameUpdate" placeholder="Ad Soyad">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="inputPassword4">Marka</label>
+                                <input type="text" class="form-control" id="txtBrandUpdate" name="txtBrandUpdate" placeholder="Marka">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="inputPassword4">Model</label>
+                                <input type="text" class="form-control" id="txtModelUpdate" name="txtModelUpdate" placeholder="Model">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="inputPassword4">Fiyat</label>
+                                <input type="text" class="form-control" id="txtUnitPRiceUpdate" name="txtUnitPRiceUpdate" placeholder="Fiyat">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="inputState">Arıza</label>
+                                <select id="ddlFaultListUpdate" name="ddlFaultListUpdate" class="form-control" asp-items="Model.Faults">
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="inputState">Müşteri Tipi</label>
+                                <select id="ddlCustomerTypeListUpdate" name="ddlCustomerTypeListUpdate" class="form-control" asp-items="Model.CustomerTypes">
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="inputState">Durumu</label>
+                                <select id="ddlDeviceStatusListUpdate" name="ddlDeviceStatusListUpdate" class="form-control" asp-items="Model.DeviceStatus">
+                                </select>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Kapat</button>
+                    <button id="btnSaveUpdate" type="button" class="btn btn-primary">Kaydet</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="divNewServiceForm" data-backdrop="static" data-keyboard="false" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Servis Düzenleme Formu</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="frmUpdateService">
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="inputEmail4">Ad Soyad</label>
+                                <input type="text" class="form-control" id="txtFullName" name="txtFullName" placeholder="Ad Soyad">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="inputPassword4">Marka</label>
+                                <input type="text" class="form-control" id="txtBrand" name="txtBrand" placeholder="Marka">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="inputPassword4">Model</label>
+                                <input type="text" class="form-control" id="txtModel" name="txtModel" placeholder="Model">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <label for="inputPassword4">Fiyat</label>
+                                <input type="text" class="form-control" id="txtUnitPrice" name="txtUnitPrice" placeholder="Fiyat">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="inputState">Arıza</label>
+                                <select id="ddlFaultList" name="ddlFaultList" class="form-control" asp-items="Model.Faults">
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="inputState">Durumu</label>
+                                <select id="ddlDeviceStatusList" name="ddlDeviceStatusList" class="form-control" asp-items="Model.DeviceStatus">
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label for="inputState">Müşteri Tipi</label>
+                                <select id="ddlCustomerTypeList" name="ddlCustomerTypeList" class="form-control" asp-items="Model.CustomerTypes">
+                                </select>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Kapat</button>
+                    <button id="btnSave" type="button" class="btn btn-primary">Kaydet</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <input id="hfServiceIdDelete" type="hidden" />
+    <input id="hfServiceIsActiveDelete" type="hidden" />
+
+</div>
+
+@section scripts{
+    <script src="~/lib/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/lib/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/lib/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/lib/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/lib/sweetalert2/dist/sweetalert2.js"></script>
+    <script src="~/lib/jquery-validation/jquery.validate.js"></script>
+    <script src="~/AdminPanel/js/ServiceList.js"></script>
+
+}
+
+@section styles{
+    <link rel="stylesheet" href="~/lib/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/lib/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <link href="~/lib/sweetalert2/dist/sweetalert2.css" rel="stylesheet" />
+
+    <style>
+        .error {
+            color: red;
+        }
+    </style>
+}

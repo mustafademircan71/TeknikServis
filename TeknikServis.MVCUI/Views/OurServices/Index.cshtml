@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using TeknikServis.Model.Entity
+@model List<Fault>
+
+
+    <div class="cd-full-width">
+        <div class="container js-tm-page-content tm-section-margin-t-small" data-page-no="4">
+            <div class="tm-contact-page">
+                <div class="row tm-margin-b">
+                    <div class="col-xs-12">
+                        <div class="tm-bg-white tm-textbox-padding" ">
+                            <h2 class="tm-text-title tm-margin-b-0"  >Hizmetlerimiz</h2>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="tm-flex tm-contact-container tm-bg-dark-blue">
+                            <div class="text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding tm-textbox-padding-contact">
+                                <table class="table table-bordered table-dark" style="width:250px;">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col" style="color:white;">Hizmetlerimiz</th>
+                                        </tr>
+                                    </thead>
+                                    @foreach (var fault in Model)
+                                    {
+                                        <tbody>
+                                            <tr>
+                                                <td style="color:white;">@fault.FaultName</td>
+                                            </tr>
+                                        </tbody>
+                                    }
+                                   
+                                </table>
+                            </div>
+
+                            <div class="text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding tm-textbox-padding-contact">
+                                <!-- contact form -->
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <table class="table table-bordered table-dark">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">First</th>
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Jacob</td>
+                <td>Thornton</td>
+
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td colspan="2">Larry the Bird</td>
+
+            </tr>
+        </tbody>
+    </table>
+
+
+
+
+
+
+
+
+
+
+    @section scripts{
+        <script src="~/lib/datatables/jquery.dataTables.min.js"></script>
+        <script src="~/lib/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/lib/datatables-responsive/js/dataTables.responsive.min.js"></script>
+        <script src="~/lib/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+        <script src="~/js/Home.js"></script>
+    }
+
+    @section styles{
+        <link rel="stylesheet" href="~/lib/datatables-bs4/css/dataTables.bootstrap4.min.css">
+        <link rel="stylesheet" href="~/lib/datatables-responsive/css/responsive.bootstrap4.min.css">
+
+    }
+

@@ -1,0 +1,48 @@
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csprojAssemblyReference.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TeknikServis.Business.AssemblyInfoInputs.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TeknikServis.Business.AssemblyInfo.cs
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csproj.CoreCompileInputs.cache
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TeknikServis.Business.deps.json
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TeknikServis.Business.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TeknikServis.Business.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TeknikServis.DataAccess.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TeknikServis.Model.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TeknikServis.DataAccess.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\TeknikServis.Model.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\bin\Debug\netstandard2.0\Core.pdb
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csproj.CopyComplete
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TeknikServis.Business.dll
+E:\vektörel\vektörel 20. hafta\pazar\TheWayShop\TheWayShop\TheWayShop.Business\obj\Debug\netstandard2.0\TeknikServis.Business.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Business.deps.json
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Business.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Business.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.DataAccess.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Model.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.DataAccess.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Model.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csproj.CopyComplete
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Business.deps.json
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Business.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Business.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.DataAccess.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Model.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.DataAccess.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\TeknikServis.Model.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csprojAssemblyReference.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.csproj.CopyComplete
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.dll
+C:\Users\mustafa\Desktop\TeknikServis\TeknikServis.Business\obj\Debug\netstandard2.0\TeknikServis.Business.pdb

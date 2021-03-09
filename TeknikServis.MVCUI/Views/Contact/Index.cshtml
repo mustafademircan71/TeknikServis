@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "İltişim";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<li>
+    <div class="cd-full-width">
+        <div class="container js-tm-page-content tm-section-margin-t-small" data-page-no="4">
+            <div class="tm-contact-page">
+                <div class="row tm-margin-b">
+                    <div class="col-xs-12">
+                        <div class="tm-bg-white tm-textbox-padding" style="width:700px;">
+                            <h2 class="tm-text-title tm-margin-b-0">İletişim</h2>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="tm-flex tm-contact-container tm-bg-dark-blue">
+                            <div class="text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding tm-textbox-padding-contact">
+
+                                <p class="tm-text" style="color:white;">Atatürk Mahallesi Lale Caddesi<br>Ayaşlılar Pasajı No:5/57<br>Sincan Ankara<br></p>
+                                <p class="tm-text" style="color:white;">Tel: 0530 995 15 00<br>E-Posta: teknoceppp1@gmail.com </p>
+                            </div>
+
+                            <div class="text-xs-left tm-textbox tm-2-col-textbox-2 tm-textbox-padding tm-textbox-padding-contact">
+                                <!-- contact form -->
+                                <form action="index.html" method="post" class="tm-contact-form">
+                                    <div class="form-group">
+                                        <input type="text" id="txtFullName" name="txtFullName" class="form-control" placeholder="Adı Soyadı" required />
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="email" id="txtEmail" name="txtEmail" class="form-control" placeholder="Email" required />
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea id="txtMessage" name="txtMessage" class="form-control" rows="5" placeholder="Mesaj" required></textarea>
+                                    </div>
+
+                                </form>
+                                <button class="btn btn-primary" id="sendMessage" name="sendMessage" style="height:40px;width:100px;font-size:15px;">Gönder</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- .cd-full-width -->
+</li>
+@section scripts{
+    <script src="~/lib/sweetalert2/dist/sweetalert2.js"></script>
+    <script src="~/lib/jquery-validation/jquery.validate.js"></script>
+}
+
+@section styles{
+    <link rel="stylesheet" href="~/lib/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/lib/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <link href="~/lib/sweetalert2/dist/sweetalert2.css" rel="stylesheet" />
+
+    <style>
+        .error {
+            color: red;
+        }
+    </style>
+}
